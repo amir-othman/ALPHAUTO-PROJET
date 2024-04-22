@@ -44,6 +44,7 @@ Si vous souhaitez en savoir plus sur ALPHAUTO ou avez des questions, n'hésitez 
 
 ## Médias
 Pour une démonstration visuelle de ce que notre projet propose, regardez notre vidéo de présentation sur YouTube :
+
 [![ALPHAUTO PROJET](https://img.youtube.com/vi/26PNsRmLLMY/0.jpg)](https://www.youtube.com/watch?v=26PNsRmLLMY)
 
 <br>©2022 Alpha Team
